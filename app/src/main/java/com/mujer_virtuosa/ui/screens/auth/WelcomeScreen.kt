@@ -42,7 +42,7 @@ fun WelcomeScreen(
     Box(modifier = Modifier.fillMaxSize()) {
         // Imagen de fondo
         Image(
-            painter = painterResource(id = R.drawable.android_compact_26),
+            painter = painterResource(id = R.drawable.shampoomujervirtuosa),
             contentDescription = null,
             modifier = Modifier.fillMaxSize(),
             contentScale = ContentScale.Crop,
